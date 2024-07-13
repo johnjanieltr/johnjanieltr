@@ -1,9 +1,5 @@
 # John Janiel Troya - Desarrollador web frontend
 
-## Sobre mí
-
-Estudiante universitario de ingeniería informática en la Universidad Politécnica Territorial del Estado Aragua _"Federico Brito Figueroa"_. Aragua, Venezuela.
-
 ## Lenguajes y tecnologías
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
@@ -14,7 +10,12 @@ Estudiante universitario de ingeniería informática en la Universidad Politécn
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]()
 
 [![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
-[![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![ExpressJs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MongoD](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
