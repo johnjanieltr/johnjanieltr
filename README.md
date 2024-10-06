@@ -1,4 +1,4 @@
-# John Janiel Troya - Desarrollador web frontend
+# John Janiel Troya - Desarrollador fullstack
 
 ## Lenguajes y tecnologías
 
