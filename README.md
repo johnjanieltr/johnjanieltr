@@ -2,7 +2,7 @@
 
 **Desarrollador Web Full Stack | Automatizaciones con IA** · Venezuela · Remoto, híbrido o presencial
 
-Desarrollo sitios y aplicaciones web con JavaScript, React y WordPress, y automatizo procesos con n8n e IA. En mi experiencia profesional en remoto mantuve varios sitios WordPress multilingües y creé más de 8 automatizaciones, entre ellas un bot que redujo trabajo manual de días a minutos.
+Desarrollo sitios y aplicaciones web con JavaScript, React y WordPress, y automatizo procesos con n8n e IA. En mi experiencia profesional en remoto mantuve varios sitios WordPress de diferentes idiomas y creé más de 8 automatizaciones, entre ellas un bot que redujo trabajo manual de días a minutos.
 
 [Portafolio](https://johnjanieltr.github.io/) · [LinkedIn](https://www.linkedin.com/in/johnjanieltr/) · troyajohn17@gmail.com
 
